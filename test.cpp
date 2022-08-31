@@ -9,7 +9,7 @@ int main()
     cin >> a >> b;
     while (a <= b)
     {
-        // a
+        a = 10
     }
     // 5 - 10
 }
